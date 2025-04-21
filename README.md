@@ -3,15 +3,33 @@
 
 📚 What’s Inside?
 This repo includes:
+-✅ 100 RTL design projects
+-💡 Descriptions and design logic
+-💻 Verilog implementation
+-🧪 Testbenches and simulations
+-📊 Waveform results
+-🧠 Key learnings and notes
 
-✅ 100 RTL design projects
+🔥 Why #100DaysOfRTL?
+This challenge is inspired by #100DaysOfCode but focused on RTL design and hardware development. By completing this challenge, you'll:
+-Gain practical Verilog experience
+-Understand combinational & sequential logic
+-Learn memory, FSMs, arithmetic units, and even CPU components
+-Improve your debugging, simulation, and documentation skills
 
-💡 Descriptions and design logic
+🧱 Topics Covered
+-Logic Gates (NAND, XOR, etc.)
+-Arithmetic Units (ALU, Multiplier, Divider)
+-FSMs (Traffic Light, Vending Machine)
+-Interfaces (UART, SPI, I2C)
+-Memory (SRAM, ROM, FIFO, Cache)
+-CPU Building Blocks (Register File, Control Unit, RISC-V Core)
 
-💻 Verilog implementation
+📈 Progress Tracker
+-Check progress.md to follow the 100-day streak!
 
-🧪 Testbenches and simulations
+✨ Join the Challenge!
+Feel free to fork this repo, try the challenge yourself, or just browse and learn. Contributions and suggestions are welcome!
+Let’s build hardware, one day at a time. 💻⚙️
 
-📊 Waveform results
-
-🧠 Key learnings and notes
+#Verilog #RTLDesign #FPGA #HardwareDesign #100DaysOfRTL
