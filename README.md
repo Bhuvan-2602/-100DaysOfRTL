@@ -1,6 +1,8 @@
 # -100DaysOfRTL
 🛠️ #100DaysOfRTL — 100 RTL Design Projects in Verilog Welcome to #100DaysOfRTL — a personal challenge to master digital design by building 100 RTL projects using Verilog. Each day is dedicated to implementing, simulating, and documenting one digital design concept, from basic logic gates to processors.
 
+
+
 📚 What’s Inside?
 This repo includes:
 
@@ -17,6 +19,7 @@ This repo includes:
 -🧠 Key learnings and notes
 
 
+
 🔥 Why #100DaysOfRTL?
 This challenge is inspired by #100DaysOfCode but focused on RTL design and hardware development. By completing this challenge, you'll:
 
@@ -27,6 +30,8 @@ This challenge is inspired by #100DaysOfCode but focused on RTL design and hardw
 -Learn memory, FSMs, arithmetic units, and even CPU components
 
 -Improve your debugging, simulation, and documentation skills
+
+
 
 🧱 Topics Covered
 
@@ -42,8 +47,12 @@ This challenge is inspired by #100DaysOfCode but focused on RTL design and hardw
 
 -CPU Building Blocks (Register File, Control Unit, RISC-V Core)
 
+
+
 📈 Progress Tracker
 -Check progress.md to follow the 100-day streak!
+
+
 
 ✨ Join the Challenge!
 Feel free to fork this repo, try the challenge yourself, or just browse and learn. Contributions and suggestions are welcome!
